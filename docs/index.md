@@ -1,3 +1,5 @@
+# Let's git together
+
 # About:
 
 There are two files 'word.txt' and 'number.txt' in the master branch.
