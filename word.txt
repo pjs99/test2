@@ -1,5 +1,5 @@
-apple ant
-bat
+apple anchor annotation ant
+bat box busy
 cat
 dog
 elephant
@@ -24,4 +24,3 @@ watch
 x-mus
 yak
 zebra
-completed...

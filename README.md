@@ -54,4 +54,4 @@
 > Now you are *ready* to do your Git and GitHub exercises on this repo.
 
 
-## Good Luck
+## Good Luck :+1:
